@@ -1,0 +1,26 @@
+{
+  "name": "@sl-code-lords/calendar",
+  "version": "1.0.0",
+  "description": "generate a calendar for a specific year using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/Calendar.git"
+  },
+  "keywords": [
+    "calender",
+    "calender-js",
+    "month",
+    "year",
+    "day"
+  ],
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/Calendar/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/Calendar#readme"
+}
